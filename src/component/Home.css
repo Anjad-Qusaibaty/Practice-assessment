@@ -1,0 +1,18 @@
+.actionbuttons{
+    font-size: 16px;
+    display: block;
+    width: 175px;
+    height:75px;
+    font-weight: bold;
+    margin: 10px auto;
+    background-color:#083979;
+    color: white;
+}
+
+
+.actionsection{
+    text-decoration: none;
+    width: fit-content;
+    height:fit-content;
+    margin: 10px auto;
+}

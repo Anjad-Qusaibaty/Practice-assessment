@@ -1,0 +1,22 @@
+.divtable{
+
+    width:fit-content;
+    margin: auto;
+    text-align: center;
+
+}
+
+.tableheader{
+    border: solid 2px black;
+    background-color: #083979;
+    color: white;
+    width: 70px;
+    padding:10px;
+    height:fit-content;
+}
+.tabledata{
+    border: solid 2px black;
+    padding: 30px;
+    width: 70px;
+    height: 20px;
+}

@@ -1,0 +1,22 @@
+
+#address label {
+    display: inline-block;
+    width: 10em;
+    text-align: left;
+    padding-right: 0.5em;
+    margin-bottom: 10px;
+
+}
+#address input {
+    display: inline-block;
+    width: 300px;
+    height: 30px;
+    margin-top: 5px;
+}
+#address select {
+    display: inline-block;
+    width: 310px;
+    height: 35px;
+    margin-top: 5px;
+
+}
