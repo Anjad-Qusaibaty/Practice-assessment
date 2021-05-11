@@ -1,0 +1,13 @@
+.basicinfo{
+    border: solid 2px #083979;
+    width:200px;
+    margin: 10px auto;
+    padding: 15px 50px;     
+}
+
+.fullinfo{
+    border: solid 2px #083979;
+    width:400px;
+    margin: 30px auto;
+    padding: 25px 70px;     
+}
